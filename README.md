@@ -7,3 +7,5 @@
 ###1Mol. Behavioral Neurosci. Inst., Univ. of Michigan, Ann Arbor, MI, USA; 2Genet., Univ. of Michigan, Ann Arbor, MI, USA; 3Univ. of California, Irvine, CA; 4HudsonAlpha Inst. for Biotech., Huntsville, AL, USA; 5Stanford, Palo Alto, CA, 6Cornell, New York, NY, USA
 
 ###Please note that this code is not easily generalizable - it primarily represents the documentation for all analyses used in our paper. For those of you who are interested in applying similar techniques to your own data, we do have a simplified, generalized version available at https://github.com/hagenaue/BrainInABlender.
+
+###The original microarray data was downloaded from http://human.brain-map.org/microarray/search on December 2015. For anyone who is interested, I have a concatenated version of that file (referred to as "ABA_AllProbesNoEmptyRow.csv" in the code), but it is too large to upload to github even with compression, so I have placed it on Google Drive (https://drive.google.com/a/umich.edu/file/d/0B9s8t9_1ysFqMS1pY0ZFRTV5TTg/view?usp=sharing).
