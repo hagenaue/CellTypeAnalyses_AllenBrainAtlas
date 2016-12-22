@@ -1,6 +1,6 @@
 # CellTypeAnalyses_AllenBrainAtlas
 
-###This repository contains the full code for the cell type analyses applied to the Allen Brain Atlas 160 brain region Agilent microarray data included in the manuscript "INFERENCE OF CELL-TYPE COMPOSITION FROM HUMAN BRAIN TRANSCRIPTOMIC DATASETS ILLUMINATES THE EFFECTS OF AGE, MANNER OF DEATH, DISSECTION, AND PSYCHIATRIC DIAGNOSIS"
+###This repository contains the full code for the cell type analyses applied to the Allen Brain Atlas 160 brain region Agilent microarray data included in the manuscript "INFERENCE OF CELL-TYPE COMPOSITION FROM HUMAN BRAIN TRANSCRIPTOMIC DATASETS ILLUMINATES THE EFFECTS OF AGE, MANNER OF DEATH, DISSECTION, AND PSYCHIATRIC DIAGNOSIS" (http://biorxiv.org/content/early/2016/11/25/089391)
 
 ###by *Megan Hastings Hagenauer, Ph.D.1, Jun Z. Li, Ph.D.2, David M. Walsh, Psy.D.3, Marquis P. Vawter, Ph.D.3 Robert C. Thompson, Ph.D.1, Cortney A. Turner, Ph.D.1, William E. Bunney, M.D.3, Richard M. Myers, Ph.D.4, Jack D. Barchas, M.D.5, Alan F. Schatzberg, M.D.6, Stanley J. Watson, M.D., Ph.D.1, Huda Akil, Ph.D.1
 
